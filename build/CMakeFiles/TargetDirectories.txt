@@ -1,4 +1,0 @@
-/home/daria_nov/OS/2nd_lab/build/CMakeFiles/parent.dir
-/home/daria_nov/OS/2nd_lab/build/CMakeFiles/child.dir
-/home/daria_nov/OS/2nd_lab/build/CMakeFiles/edit_cache.dir
-/home/daria_nov/OS/2nd_lab/build/CMakeFiles/rebuild_cache.dir
